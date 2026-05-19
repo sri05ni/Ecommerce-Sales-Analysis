@@ -52,7 +52,7 @@ This project focuses on analyzing e-commerce sales data using Excel, MySQL, and 
 
 ## Files Included
 - Cleaned Dataset (.csv)
-- Excel Analysis File (.xlsx)
+- Excel Analysis File (Sample-Superstore.csv)
 - SQL Query File (.sql)
 - Power BI Dashboard File (.pbix)
 - Dashboard Screenshots
